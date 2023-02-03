@@ -593,7 +593,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6250-common/proprietary/vendor/etc/mixer_paths_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrd.xml \
     vendor/xiaomi/sm6250-common/proprietary/vendor/etc/mixer_paths_wcd937x.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_wcd937x.xml \
     vendor/xiaomi/sm6250-common/proprietary/vendor/etc/mixer_paths_wcd937xqrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_wcd937xqrd.xml \
-    vendor/xiaomi/sm6250-common/proprietary/vendor/etc/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf \
     vendor/xiaomi/sm6250-common/proprietary/vendor/etc/permissions/android.hardware.audio.low_latency.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.audio.low_latency.xml \
     vendor/xiaomi/sm6250-common/proprietary/vendor/etc/permissions/android.hardware.audio.pro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.audio.pro.xml \
     vendor/xiaomi/sm6250-common/proprietary/vendor/etc/permissions/android.hardware.bluetooth.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.bluetooth.xml \
